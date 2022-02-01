@@ -1,0 +1,2 @@
+
+  strncpy(slicedText, text, space);

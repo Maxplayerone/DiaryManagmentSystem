@@ -1,0 +1,2 @@
+cd "c:\A programowanie\C\DiaryManagmentSystem\" ; if ($?) { gcc DiaryManagmentSystem.c -o DiaryManagmentSystem } ; if ($?) { .\DiaryManagmentSystem }
+ -cd
